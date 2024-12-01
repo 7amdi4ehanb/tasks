@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FCI\\Tasks\\visual programming\\imageSlideShow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67CDE10-1648-4EF5-A95C-2C9AE4AF2D95}|imageSlideShow\\imageSlideShow.csproj|e:\\fci\\tasks\\visual programming\\imageslideshow\\imageslideshow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B67CDE10-1648-4EF5-A95C-2C9AE4AF2D95}|imageSlideShow\\imageSlideShow.csproj|solutionrelative:imageslideshow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67CDE10-1648-4EF5-A95C-2C9AE4AF2D95}|imageSlideShow\\imageSlideShow.csproj|E:\\FCI\\Tasks\\visual programming\\imageSlideShow\\imageslideshow\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67CDE10-1648-4EF5-A95C-2C9AE4AF2D95}|imageSlideShow\\imageSlideShow.csproj|solutionrelative:imageslideshow\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67CDE10-1648-4EF5-A95C-2C9AE4AF2D95}|imageSlideShow\\imageSlideShow.csproj|E:\\FCI\\Tasks\\visual programming\\imageSlideShow\\imageslideshow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67CDE10-1648-4EF5-A95C-2C9AE4AF2D95}|imageSlideShow\\imageSlideShow.csproj|solutionrelative:imageslideshow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\FCI\\Tasks\\visual programming\\imageSlideShow\\imageSlideShow\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "imageSlideShow\\Form1.Designer.cs",
+              "ToolTip": "E:\\FCI\\Tasks\\visual programming\\imageSlideShow\\imageSlideShow\\Form1.Designer.cs",
+              "RelativeToolTip": "imageSlideShow\\Form1.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAWwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:23:11.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\FCI\\Tasks\\visual programming\\imageSlideShow\\imageSlideShow\\Form1.cs",
+              "RelativeDocumentMoniker": "imageSlideShow\\Form1.cs",
+              "ToolTip": "E:\\FCI\\Tasks\\visual programming\\imageSlideShow\\imageSlideShow\\Form1.cs [Design]",
+              "RelativeToolTip": "imageSlideShow\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:04:42.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\FCI\\Tasks\\visual programming\\imageSlideShow\\imageSlideShow\\Form1.cs",
+              "RelativeDocumentMoniker": "imageSlideShow\\Form1.cs",
+              "ToolTip": "E:\\FCI\\Tasks\\visual programming\\imageSlideShow\\imageSlideShow\\Form1.cs",
+              "RelativeToolTip": "imageSlideShow\\Form1.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:08:15.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

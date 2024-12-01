@@ -1,0 +1,20 @@
+C:\Users\Asus\Desktop\imageSlideShow\imageSlideShow\bin\Debug\imageSlideShow.exe.config
+C:\Users\Asus\Desktop\imageSlideShow\imageSlideShow\bin\Debug\imageSlideShow.exe
+C:\Users\Asus\Desktop\imageSlideShow\imageSlideShow\bin\Debug\imageSlideShow.pdb
+C:\Users\Asus\Desktop\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.Form1.resources
+C:\Users\Asus\Desktop\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.Properties.Resources.resources
+C:\Users\Asus\Desktop\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.exe
+C:\Users\Asus\Desktop\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.pdb
+E:\FCI\Tasks\visual programming\imageSlideShow\imageSlideShow\bin\Debug\imageSlideShow.exe.config
+E:\FCI\Tasks\visual programming\imageSlideShow\imageSlideShow\bin\Debug\imageSlideShow.exe
+E:\FCI\Tasks\visual programming\imageSlideShow\imageSlideShow\bin\Debug\imageSlideShow.pdb
+E:\FCI\Tasks\visual programming\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.csproj.AssemblyReference.cache
+E:\FCI\Tasks\visual programming\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.Form1.resources
+E:\FCI\Tasks\visual programming\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.Properties.Resources.resources
+E:\FCI\Tasks\visual programming\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.csproj.GenerateResource.cache
+E:\FCI\Tasks\visual programming\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.csproj.CoreCompileInputs.cache
+E:\FCI\Tasks\visual programming\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.exe
+E:\FCI\Tasks\visual programming\imageSlideShow\imageSlideShow\obj\Debug\imageSlideShow.pdb
